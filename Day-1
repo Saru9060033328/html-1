@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx4VhlC_CmE7D5iLXk9TP2IYNUUdeJ_2fCuQ&s" 
+    alt="facebook" height="150px" width="150px">
+    <a href="http://https://www.facebook.com/" target="_blank">facebook</a>
+     <hr>
+     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoqOELTXgCNULD8beLRq_C9fiqloWdtUqDJQ&s" alt="instagram"  height="150px" width="150px">
+     <a href="https://www.instagram.com/" target="_blank">instagram</a>
+     <hr>
+     <img src="https://cdn.prod.website-files.com/67053868fc01e494462e71c9/671155ca7f64fd389648073a_64c2bb00cc53d81d58842318_og-twitter-x.png" alt="twitter"  height="150px" width="150px" >
+     <a href="https://x.com/" target="_blank">twitter</a>
+     <hr>
+     <img src="https://i.pinimg.com/236x/2c/c4/fa/2cc4fa87839ca28b6daceb7fa5acb30f.jpg" alt="shadi" height="150px" width="150px">
+<a href="https://www.shaadi.com/" target="_blank">shadi</a>
+<hr>
+    </body>
+</html>
